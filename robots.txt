@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://wejahonuco.pages.dev/sitemap.xml
